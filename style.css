@@ -1,0 +1,143 @@
+. conteiner{
+    max-width: 1180px;
+    width: 100%;
+    margin: auto;
+    
+}
+/* header */
+.header_div{
+    width: 97%;
+    margin: auto;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+.header_link .header_img{
+margin: 31px 130px;
+}
+.header_ul{
+    width: 30%;
+    margin: 50px 130px 51px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+.nav_li  .header_li{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px; 
+}
+/* header ending */
+
+   /* section */
+.section_cover{
+    width:97%;
+    margin-left: 11%;
+       
+}
+
+  
+.section_images{
+    width: 53%;
+}
+
+
+.section_div1{
+    display: flex;
+    justify-content: space-between;
+}
+.section_div_inside{
+    width: 20%;
+}
+.section_div_p{
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+    padding-top: 20px;
+    font-style: bold;
+    padding-bottom: 80px;
+
+}
+.section_div2{
+    width: 30%;
+    margin-right:46% ;
+    vertical-align: top;
+    padding-top: 21px;
+}
+.section_div_text{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-style: Regular;
+    padding-bottom: 35px;
+
+}
+  .section_div_link .section_button{
+    width: 40%;
+    background-color: #F15D51;
+    padding: 15px 45px 14px 53px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: white;
+
+}
+
+/* .section_article{ */ 
+    width: 30%; 
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60%;
+    align-items: center;
+    color: white;
+    margin-top: 1px;
+    gap: 20px;
+    flex-direction: column;
+    
+    
+}
+
+.h3{
+    margin-top: 20px;
+}
+.section_bottom{
+    width: 97%;
+    
+    display: flex;
+   
+    
+    /* justify-content: space-between; */
+}
+.section_footer{
+    width: 40%;
+}
+.section_photo1{
+    width: 90%;
+}
+.section_bottom_div1{
+    width: 20%;
+    margin-left: 11.5%;
+}
+
+.section_bottom_div2{
+   width: 10%; 
+   display: flex;
+   flex-direction: column;
+   row-gap: 10px;
+   padding-left: 5px;
+
+  
+}
+.h2{
+    font-size: 48px;
+    color:#CAC9CD;
+}
+.h4{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    color:#000000;
+}
+.text{
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    width: 186px;
+}
